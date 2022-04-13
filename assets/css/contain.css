@@ -1,0 +1,12 @@
+p.sign-link {
+    color: #fff;
+    font-size: 0.8rem;
+    margin: 20px 30px;
+}
+a.sign-link-a {
+    text-decoration: none;
+}
+a.sign-link-a:hover {
+    color: #103161;
+}
+
